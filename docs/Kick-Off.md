@@ -133,7 +133,7 @@ Goal: a personalized micro-credential path that delivers short tasks, auto-feedb
 - Use test harness (pytest) + static analyzers (pylint) for style suggestions.
 - For feedback, embed submission and query Chroma for most similar good examples, then use templated language to explain differences.
 
-3) Clean Mirror — MVP plan (3–8 weeks)
+# 3) Clean Mirror — MVP plan (3–8 weeks)
 
 Goal: a dashboard that ingests corpora (internal comms or public data), extracts sentiment, topic clusters, and highlights systemic signals/bias.
 
