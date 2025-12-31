@@ -60,13 +60,13 @@ It serves as the foundational reference for how and why these projects are built
 
 The Vaughn ecosystem currently includes the following projects:
 
-- **Empathy-Engine**  
+- **[Empathy-Engine](../../../Empathy-Engine)**  
   Core architectural concepts and specifications for empathy-centered systems
 
-- **Skill-Bridge**  
+- **[Skill-Bridge](../../../Skill-Bridge)**  
   Adaptive learning and skill development tools
 
-- **Clean-Mirror**  
+- **[Clean-Mirror](../../../Clean-Mirror)**  
   Reflection, pattern recognition, and self-awareness utilities
 
 Each project is designed to stand on its own, while sharing a common philosophy documented here.
