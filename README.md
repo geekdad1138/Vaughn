@@ -69,6 +69,25 @@ The Vaughn ecosystem currently includes the following projects:
 - **[Clean-Mirror](../../../Clean-Mirror)**  
   Reflection, pattern recognition, and self-awareness utilities
 
+- **[AI Quiz Master](../../../AI-Quiz-Master)**  
+  Open-source educational platform delivering comprehensive AI quizzes across multiple formats and delivery mechanisms
+
+### Founders Lineage
+
+A living record of the people and ideas that shaped computing and AI. This parent grouping contains:
+
+- **[The First Clicks](../../../The-First-Clicks)**  
+  The people, papers, and moments that made modern computing inevitable
+
+- **[Standing on the Shoulders](../../../Standing-on-the-Shoulders)**  
+  Dependency graphs of thought — how ideas inherit and pass forward
+
+- **[Button Pressers](../../../Button-Pressers)**  
+  Intimate stories of individual decisions that changed everything
+
+- **[Letters](../../../Letters)**  
+  A love letter to the founders — gratitude and reflection in your own voice
+
 Each project is designed to stand on its own, while sharing a common philosophy documented here.
 
 ---
